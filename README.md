@@ -11,29 +11,25 @@ Projeto da Trilha Java Básico da DIO.
 ## Como executar
 
 Compile com:
-
 ```bash
 javac *.java
+
 Execute com:
 
-bash
-Copiar
-Editar
 java Main
+
 Estrutura
-css
-Copiar
-Editar
+
 AparelhoTelefonico.java  
 NavegadorInternet.java  
 ReprodutorMusical.java  
 iPhone.java  
 Main.java  
 README.md
+
 Diagrama UML
-mermaid
-Copiar
-Editar
+
+
 classDiagram
     class ReprodutorMusical {
         +tocar()
